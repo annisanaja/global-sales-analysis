@@ -96,7 +96,7 @@ The `Global_Sales_Analysis.sql` file includes:
 
 ## 📈 Dashboard (Power BI)
 
-<img width="575" height="324" alt="image" src="https://github.com/user-attachments/assets/d59399aa-e008-4d81-84b1-6a0e82f5767a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d59399aa-e008-4d81-84b1-6a0e82f5767a" />
 
 The `.pbix` file contains interactive visuals for:
 - Revenue and profit KPIs
